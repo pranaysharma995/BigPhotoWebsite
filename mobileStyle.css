@@ -1,0 +1,37 @@
+@media screen and (max-width: 1000px) and (min-width:100px)
+{
+    div.heroBanner div.pagelink a.link{
+        display: none;
+    }
+    div.heroBanner div.pagelink a.button{
+        display: block;
+    }
+    div.heroBanner div.hotelName h1{
+        font-size: 1.3em;
+        left: 1%;
+    }
+    div.heroBanner{
+        padding-top: 25%;
+        padding-bottom: 25%;
+    }
+    div.heroBanner h2{
+        font-size: 2.5em;
+        width: 60%;
+    }
+    div.col-md-6.col-xs-6 img{
+        width:100%;
+        height: 100%;
+    }
+    div.welcomeDiv h1{
+        padding: 5px;
+        font-size: 1.4em;
+    }
+    div.row.conferenceAndEvent h1{
+        font-size: 1.5em;
+        width: 100%;
+    }
+    div.hotelImage h2{
+        font-size:1.5em;
+        width: 100%;
+    }
+}
